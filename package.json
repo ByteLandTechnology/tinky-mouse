@@ -31,7 +31,8 @@
     "test": "tsc",
     "build": "tsc",
     "lint": "tslint -c tslint.json src/**/*.ts",
-    "prepublish": "npm run build"
+    "prepublish": "npm run build",
+    "prepare": "husky"
   },
   "dependencies": {
     "tslint": "^5.20.1",
@@ -41,5 +42,8 @@
     "./bin/*",
     "./lib/*"
   ],
-  "typings": "./lib/index.d.ts"
+  "typings": "./lib/index.d.ts",
+  "devDependencies": {
+    "husky": "^9.1.7"
+  }
 }
