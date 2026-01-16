@@ -29,10 +29,11 @@
   "main": "./lib/index.js",
   "scripts": {
     "test": "tsc",
-    "build": "tsc",
-    "lint": "tslint -c tslint.json src/**/*.ts",
+    "build": "tsc && npm run docs",
+    "lint": "eslint src tests",
     "prepublish": "npm run build",
-    "prepare": "husky"
+    "prepare": "husky",
+    "docs": "typedoc --plugin typedoc-plugin-markdown --disableSources --out docs/api && prettier --write docs/api"
   },
   "dependencies": {
     "tslint": "^5.20.1",
@@ -46,9 +47,15 @@
   "devDependencies": {
     "@commitlint/cli": "^20.3.0",
     "@commitlint/config-conventional": "^20.3.0",
+    "eslint": "^9.39.2",
+    "eslint-plugin-react": "^7.37.5",
     "husky": "^9.1.7",
+    "jiti": "^2.6.1",
     "lint-staged": "^16.2.7",
-    "prettier": "^3.7.4"
+    "prettier": "^3.7.4",
+    "typedoc": "^0.28.16",
+    "typedoc-plugin-markdown": "^4.9.0",
+    "typescript-eslint": "^8.53.0"
   },
   "commitlint": {
     "extends": [
