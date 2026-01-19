@@ -1,6 +1,6 @@
 {
   "name": "tinky-mouse",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Mouse event handling for tinky applications",
   "keywords": [
     "tinky",

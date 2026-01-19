@@ -1,3 +1,9 @@
+## [1.0.1](https://github.com/ByteLandTechnology/tinky-mouse/compare/v1.0.0...v1.0.1) (2026-01-19)
+
+### 📦 Build
+
+- migrate to ESM and upgrade tsconfig ([3b9e034](https://github.com/ByteLandTechnology/tinky-mouse/commit/3b9e0348beb966f2bc7148798cd6a6589d20c365))
+
 ## 1.0.0 (2026-01-19)
 
 ### ✨ Features
