@@ -1,8 +1,8 @@
-[**tinky**](../README.md)
+[**tinky-mouse**](../README.md)
 
 ---
 
-[tinky](../globals.md) / MouseEventName
+[tinky-mouse](../globals.md) / MouseEventName
 
 # Type Alias: MouseEventName
 

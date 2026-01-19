@@ -1,8 +1,8 @@
-[**tinky**](../README.md)
+[**tinky-mouse**](../README.md)
 
 ---
 
-[tinky](../globals.md) / useMouse
+[tinky-mouse](../globals.md) / useMouse
 
 # Function: useMouse()
 

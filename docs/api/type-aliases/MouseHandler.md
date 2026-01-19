@@ -1,8 +1,8 @@
-[**tinky**](../README.md)
+[**tinky-mouse**](../README.md)
 
 ---
 
-[tinky](../globals.md) / MouseHandler
+[tinky-mouse](../globals.md) / MouseHandler
 
 # Type Alias: MouseHandler()
 

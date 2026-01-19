@@ -1,8 +1,8 @@
-[**tinky**](../README.md)
+[**tinky-mouse**](../README.md)
 
 ---
 
-[tinky](../globals.md) / enableMouseEvents
+[tinky-mouse](../globals.md) / enableMouseEvents
 
 # Function: enableMouseEvents()
 

@@ -1,8 +1,8 @@
-[**tinky**](../README.md)
+[**tinky-mouse**](../README.md)
 
 ---
 
-[tinky](../globals.md) / MouseEvent
+[tinky-mouse](../globals.md) / MouseEvent
 
 # Interface: MouseEvent
 
@@ -12,7 +12,7 @@ Structure representing a parsed mouse event.
 
 ### button
 
-> **button**: `"none"` \| `"left"` \| `"right"` \| `"middle"`
+> **button**: `"left"` \| `"middle"` \| `"right"` \| `"none"`
 
 The specific button involved in the event.
 

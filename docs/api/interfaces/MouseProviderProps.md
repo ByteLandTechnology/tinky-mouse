@@ -1,8 +1,8 @@
-[**tinky**](../README.md)
+[**tinky-mouse**](../README.md)
 
 ---
 
-[tinky](../globals.md) / MouseProviderProps
+[tinky-mouse](../globals.md) / MouseProviderProps
 
 # Interface: MouseProviderProps
 

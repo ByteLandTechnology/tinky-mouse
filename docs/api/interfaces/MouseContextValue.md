@@ -1,8 +1,8 @@
-[**tinky**](../README.md)
+[**tinky-mouse**](../README.md)
 
 ---
 
-[tinky](../globals.md) / MouseContextValue
+[tinky-mouse](../globals.md) / MouseContextValue
 
 # Interface: MouseContextValue
 

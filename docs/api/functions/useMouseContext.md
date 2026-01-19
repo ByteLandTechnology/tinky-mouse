@@ -1,8 +1,8 @@
-[**tinky**](../README.md)
+[**tinky-mouse**](../README.md)
 
 ---
 
-[tinky](../globals.md) / useMouseContext
+[tinky-mouse](../globals.md) / useMouseContext
 
 # Function: useMouseContext()
 

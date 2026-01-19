@@ -1,4 +1,4 @@
-**tinky**
+**tinky-mouse**
 
 ---
 

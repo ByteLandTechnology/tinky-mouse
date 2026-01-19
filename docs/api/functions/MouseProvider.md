@@ -1,8 +1,8 @@
-[**tinky**](../README.md)
+[**tinky-mouse**](../README.md)
 
 ---
 
-[tinky](../globals.md) / MouseProvider
+[tinky-mouse](../globals.md) / MouseProvider
 
 # Function: MouseProvider()
 
