@@ -1,3 +1,7 @@
+**tinky**
+
+---
+
 # tinky-mouse 🐭
 
 > Mouse event handling for `tinky` applications.
