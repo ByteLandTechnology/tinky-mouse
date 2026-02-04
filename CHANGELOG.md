@@ -1,3 +1,9 @@
+## [1.0.2](https://github.com/ByteLandTechnology/tinky-mouse/compare/v1.0.1...v1.0.2) (2026-02-04)
+
+### 🔧 Chores
+
+- **deps:** update tinky peer dependency to >=1.4.3 ([b1c4889](https://github.com/ByteLandTechnology/tinky-mouse/commit/b1c48897ceab0087a679b2735a4692e5e6eebbac))
+
 ## [1.0.1](https://github.com/ByteLandTechnology/tinky-mouse/compare/v1.0.0...v1.0.1) (2026-01-19)
 
 ### 📦 Build
