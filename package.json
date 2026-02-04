@@ -38,7 +38,7 @@
   ],
   "typings": "./lib/index.d.ts",
   "peerDependencies": {
-    "tinky": "^1.2.2"
+    "tinky": ">=1.4.3"
   },
   "devDependencies": {
     "@commitlint/cli": "^20.3.0",
